@@ -1,1 +1,2 @@
 this is file 2
+Now it is moified.
